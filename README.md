@@ -16,7 +16,7 @@ This project dynamically generates a Node.js Express server based on a JSON conf
 1. **Clone the Repository:**
    ```sh
    git clone (https://github.com/Chirag-Tank1971/FullStack_Developer_Project.git)
-   cd FullStack_Developer_Project
+   cd back-end
    ```
 2. **Install Dependencies:**
    ```sh
